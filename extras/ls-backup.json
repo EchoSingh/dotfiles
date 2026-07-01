@@ -1,0 +1,75 @@
+{
+  "yags-general": {
+    "img": "https://github.com/EchoSingh/dotfiles/blob/main/extras/nordcat.png?raw=true",
+    "title": "ᓚᘏᗢ Welcome Home",
+    "displayImg": true,
+    "font": "Nunito",
+    "enableFonts": false,
+    "fontSize": 1
+  },
+  "yags-search": {
+    "placeholder": "Search the web",
+    "engine": "google",
+    "forwardingLookup": {
+      "/": "/",
+      "deepl": "https://deepl.com/",
+      "reddit": "https://reddit.com/",
+      "maps": "https://maps.google.com/"
+    }
+  },
+  "yags-theme": {
+    "inverted": false,
+    "color": {
+      "name": "custom",
+      "bg": {
+        "shade": "#252A33",
+        "base": "#2E3440",
+        "surface": "#373E4D",
+        "highlight": "#40495A"
+      },
+      "fg": {
+        "shade": "#AFBCD1",
+        "base": "#ECEFF4",
+        "surface": "#FFFFFF",
+        "highlight": "#FFFFFF"
+      },
+      "primary": {
+        "bg": "#316B7B",
+        "base": "#88C0D0",
+        "fg": "#FFFFFF"
+      },
+      "secondary": {
+        "bg": "#35506C",
+        "base": "#81A1C1",
+        "fg": "#EDF2F6"
+      },
+      "palette": {
+        "red": "#E06C75",
+        "green": "#98C379",
+        "yellow": "#E5C07B",
+        "blue": "#61AFEF",
+        "purple": "#C678DD",
+        "cyan": "#56B6C2",
+        "orange": "#FFBB7C"
+      }
+    },
+    "space": {
+      "smallest": "0.125rem",
+      "small": "0.5rem",
+      "medium": "1rem",
+      "large": "1.5rem",
+      "largest": "3rem"
+    }
+  },
+  "yags-surface": {
+    "shadow": {
+      "amount": 1,
+      "blur": 0,
+      "offset": 0,
+      "shadow": "0px 0px 0px #316B7B"
+    },
+    "borderRadius": 0,
+    "maxWidth": 1000
+  },
+  "yags-bookmarks": []
+}
